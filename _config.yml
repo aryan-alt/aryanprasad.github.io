@@ -1,1 +1,11 @@
+title: Aryan Prasad # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Frontend Developer Entusiast 
+  <br><br>
+  <a href="aryanprasad888@gmail.com">aryanprasad888@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/aryan-prasad-66081b1a0/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/aryan-alt/">Gihub</a> 
 theme: jekyll-theme-minimal
